@@ -1,4 +1,5 @@
-# MaterialAssistant
+# Material Assistant
+MaterialAssistant Documentation
 
 "MaterialCondition" is material parse condition, Support regular expression.
 "TextureSetters" is texture parse condition, , Support regular expression.
